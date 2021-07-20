@@ -5,7 +5,7 @@
 
 **DISCLAIMER: This Proof of Concept asset is being provided as-is to help accelerate your projects. As such, we are unable to provide official support for this asset. We have provided documentation as well as any needed code artifacts for your use.**
 
-**Prerequisites: HCL Commerce V9.1.x / HCL Commerce Aurora Storefront**
+**Prerequisites: HCL Commerce V9.1.2 and prior / HCL Commerce Aurora Storefront**
 
     
 **The Implementation includes below Component**
